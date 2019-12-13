@@ -1,0 +1,12 @@
+'cpt_manager' => 'Activate CPT Manager',
+'taxonomy_manager' => 'Activate Taxonomy Manager',
+'media_widget' => 'Activate Media Widget',
+'gallery_manager' => 'Activate Gallery Manager',
+'testimonial_manager' => 'Activate Testimonial Manager',
+'templates_manager' => 'Activate Templates Manager',
+'login_manager' => 'Activate Login Manager',
+'membership_manager' => 'Activate Membership Manager',
+'chat_manager' => 'Activate Chat Manager',
+
+'alecaddd_plugin' => '',
+'alecaddd_plugin_cpt' => '',
